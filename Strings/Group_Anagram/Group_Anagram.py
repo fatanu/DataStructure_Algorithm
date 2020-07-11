@@ -23,3 +23,5 @@ def grp_anagram(lst):
 
 test = ["eat", "tea", "tan", "ate", "nat", "bat"]
 print(grp_anagram(test))
+
+
